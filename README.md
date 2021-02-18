@@ -1,2 +1,2 @@
-# evolutiv_background
-An evolutiv background depending of the location of the user on the website
+# Evolutiv background
+An evolutiv background depending of the location of the user on the forum
